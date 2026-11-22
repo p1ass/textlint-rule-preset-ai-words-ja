@@ -11,6 +11,10 @@
       "ja-space-around-link": false,
       "ja-no-space-around-slash": false
     },
-    "preset-ai-words-ja": true
+    "preset-ai-words-ja": {
+      "no-ai-words": {
+        "dictionaryPath": "./ai-words.json"
+      }
+    }
   }
 }

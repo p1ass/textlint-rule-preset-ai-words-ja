@@ -1,0 +1,8 @@
+{
+  "entries": [
+    {
+      "message": "\"版\" ではなく \"バージョン\" と書いてください。",
+      "tokens": [{ "pos": "名詞", "pos_detail_1": "一般", "surface_form": "版" }]
+    }
+  ]
+}
