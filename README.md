@@ -174,6 +174,7 @@ npm install --save-dev textlint-rule-preset-ai-words-ja
 | 無言 |
 | 門 |
 | ゲート |
+| 版 |
 
 <!-- textlint-enable ai-words-ja/no-ai-words -->
 
